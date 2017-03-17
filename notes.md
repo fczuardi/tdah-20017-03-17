@@ -1,0 +1,14 @@
+
+- https://twitter.com/fczuardi/status/841337703874584577
+- Runtime https://twitter.com/CodeWisdom/status/841720334130765824
+- Racket http://racket-lang.org/
+  - http://www.ccs.neu.edu/racket/pubs/manifesto.pdf
+- React Conf
+  - https://www.youtube.com/user/FacebookDevelopers/videos
+    - Flow Type https://www.youtube.com/watch?v=V1po0BT7kac
+    - Taming the Meta Language https://www.youtube.com/watch?v=_0T5OSSzxms&t=117s
+      - Arrival https://en.wikipedia.org/wiki/Arrival_(film)
+  - https://www.youtube.com/watch?v=rMf3nDUfUpY&feature=youtu.be&t=3h40m27s até 3:42:15
+- https://video.twimg.com/tweet_video/C66UrAKVAAAk0rz.mp4
+- Flow type https://flowtype.org/
+  - Type Aliases https://flowtype.org/docs/type-aliases.html
